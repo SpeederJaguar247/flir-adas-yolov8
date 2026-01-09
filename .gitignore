@@ -1,0 +1,27 @@
+y_env/
+data
+# YOLO outputs (prediction / training)
+runs/
+
+*.pt
+*.onnx
+*.engine
+
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw images
+data/training_data/
+data/test_data/
+
+# Generated YOLO labels
+data/labels/
+
+# Large annotation files (Labelbox / COCO)
+data/annotations/*.json
