@@ -1,0 +1,19 @@
+train: C:/Users/SHANTANU/flir_adas/data/images/train
+val: C:/Users/SHANTANU/flir_adas/data/images/val
+nc: 15
+names:
+  - person
+  - bike
+  - car
+  - motor
+  - bus
+  - train
+  - truck
+  - light
+  - hydrant
+  - sign
+  - dog
+  - skateboard
+  - stroller
+  - scooter
+  - other vehicle

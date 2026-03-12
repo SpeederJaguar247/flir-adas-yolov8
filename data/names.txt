@@ -1,0 +1,15 @@
+person
+bike
+car
+motor
+bus
+train
+truck
+light
+hydrant
+sign
+dog
+skateboard
+stroller
+scooter
+other vehicle
