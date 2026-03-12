@@ -72,4 +72,3 @@ python master_pipeline.py --report-only
 - YOLOv8 (Ultralytics 8.2.27)
 - PyTorch 2.5.1 + CUDA 12.1
 - ByteTrack
-- OpenCV
